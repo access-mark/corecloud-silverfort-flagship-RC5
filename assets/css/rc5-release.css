@@ -1,0 +1,13 @@
+/* RC5 navigation: one restrained current-page indicator, no competing flagship underline. */
+.cc-rc2-nav .cc-rc2-links > a:not(.btn),.cc-rc2-nav .cc-rc2-dropbtn{position:relative}
+.cc-rc2-nav .cc-rc2-links .cc-rc2-identity{color:#8fe4ff!important;font-weight:650!important;opacity:1!important;border:0!important;border-radius:0!important;background:transparent!important;padding:0!important}
+.cc-rc2-nav .cc-rc2-links .cc-rc2-identity::before{content:"";display:inline-block;width:5px;height:5px;border-radius:50%;background:#48d2f6;margin-right:7px;vertical-align:middle;box-shadow:0 0 7px rgba(72,210,246,.4)}
+.cc-rc2-nav .cc-rc2-links .cc-rc2-identity::after{display:none!important}
+.cc-rc2-nav .cc-rc2-links > a[aria-current="page"]:not(.btn):not(.cc-rc2-identity)::after,.cc-rc2-nav .cc-rc2-dropbtn[aria-current="page"]::after{content:""!important;position:absolute;bottom:-10px;left:0;right:0;height:2px;background:#48d2f6;display:block!important;opacity:.85}
+.cc-rc2-nav .cc-rc2-links > .cc-rc2-identity[aria-current="page"]{color:#fff!important;text-shadow:0 0 12px rgba(72,210,246,.35)}
+.cc-rc2-nav .cc-rc2-links > .cc-rc2-identity[aria-current="page"]::before{width:7px;height:7px}
+.cc-rc2-nav .cc-rc2-menu a[aria-current="page"]{background:rgba(72,210,246,.12);color:#bceeff!important}
+.cc-rc2-nav .cc-rc2-menu a::after{display:none!important}
+.cc-rc2-nav .cc-rc2-links a:focus-visible,.cc-rc2-nav button:focus-visible,.mobile-panel a:focus-visible{outline:2px solid #8fe4ff;outline-offset:4px}
+@media(max-width:1250px){.cc-rc2-nav .cc-rc2-links > a::after,.cc-rc2-nav .cc-rc2-dropbtn::after{display:none!important}}
+@media(prefers-reduced-motion:reduce){.cc-rc2-nav *{transition:none!important;animation:none!important}}

@@ -1,0 +1,9 @@
+{
+  "html_files": 43,
+  "local_references": 2093,
+  "missing_local_targets": [],
+  "original_css_unchanged": true,
+  "javascript_syntax_checks": "PASS",
+  "browser_e2e": "NOT EXECUTED",
+  "form_delivery": "NOT VERIFIED"
+}

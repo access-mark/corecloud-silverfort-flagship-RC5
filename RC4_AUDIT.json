@@ -1,0 +1,81 @@
+{
+  "html_pages": 43,
+  "local_references": 2098,
+  "missing_local_targets": [],
+  "duplicate_ids": [],
+  "images_without_alt": [],
+  "invalid_json_ld": [],
+  "forms": [
+    [
+      "assess-sovereignty.html",
+      "",
+      null,
+      null
+    ],
+    [
+      "assess-ai-readiness.html",
+      "",
+      null,
+      null
+    ],
+    [
+      "guides.html",
+      "https://formsubmit.co/sales@corecloudza.com",
+      null,
+      ""
+    ],
+    [
+      "request-nda.html",
+      "https://formsubmit.co/sales@corecloudza.com",
+      null,
+      ""
+    ],
+    [
+      "assess-workload-venue.html",
+      "",
+      null,
+      null
+    ],
+    [
+      "contact.html",
+      "https://formsubmit.co/sales@corecloudza.com",
+      null,
+      null
+    ]
+  ],
+  "external_url_count": 51,
+  "external_urls_sample": [
+    "https://fonts.googleapis.com",
+    "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;760&display=swap",
+    "https://fonts.gstatic.com",
+    "https://www.corecloud-marketplace.com/",
+    "https://www.corecloudza.com/",
+    "https://www.corecloudza.com/404.html",
+    "https://www.corecloudza.com/about.html",
+    "https://www.corecloudza.com/advise.html",
+    "https://www.corecloudza.com/advisory.html",
+    "https://www.corecloudza.com/ai-infrastructure-insights.html",
+    "https://www.corecloudza.com/ai-infrastructure.html",
+    "https://www.corecloudza.com/ai-readiness-assessment.html",
+    "https://www.corecloudza.com/assess-ai-readiness.html",
+    "https://www.corecloudza.com/assess-sovereignty.html",
+    "https://www.corecloudza.com/assess-workload-venue.html",
+    "https://www.corecloudza.com/assess.html",
+    "https://www.corecloudza.com/assessments.html",
+    "https://www.corecloudza.com/case-studies.html",
+    "https://www.corecloudza.com/cloud-repatriation.html",
+    "https://www.corecloudza.com/contact.html",
+    "https://www.corecloudza.com/corelogix.html",
+    "https://www.corecloudza.com/data-sovereignty.html",
+    "https://www.corecloudza.com/execute.html",
+    "https://www.corecloudza.com/finops-assessment.html",
+    "https://www.corecloudza.com/finops.html",
+    "https://www.corecloudza.com/govern.html",
+    "https://www.corecloudza.com/guides.html",
+    "https://www.corecloudza.com/how-corecloud-works.html",
+    "https://www.corecloudza.com/identity-security.html",
+    "https://www.corecloudza.com/insights.html"
+  ],
+  "original_css_sha256": "6a4cb3bb8e1128d6d7b691c17c8be93eea32eceac56e772d2b8a80b914be2277",
+  "source_css_sha256": "6a4cb3bb8e1128d6d7b691c17c8be93eea32eceac56e772d2b8a80b914be2277"
+}
